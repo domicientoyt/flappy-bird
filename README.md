@@ -1,4 +1,5 @@
-# 🐦 Flappy Bird en Python recuerda darme creditos
+# 🐦 Flappy Bird en Python.
+recuerda darme creditos
 
 Clon educativo de Flappy Bird hecho con **Python + Tkinter**, sin Pygame.
 
