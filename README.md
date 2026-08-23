@@ -56,3 +56,6 @@ No hay paquetes externos. `requirements.txt` queda vacío intencionalmente.
 ## Licencia
 
 MIT License. Proyecto educativo inspirado en juegos de tipo Flappy Bird y sin utilizar recursos originales del juego.
+
+
+https://github.com/domicientoyt/flappy-bird/releases/tag/beta_game
