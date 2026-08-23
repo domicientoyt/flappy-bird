@@ -1,0 +1,2 @@
+# No hay dependencias externas.
+# Tkinter normalmente forma parte de Python.
