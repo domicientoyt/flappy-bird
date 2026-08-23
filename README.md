@@ -51,6 +51,8 @@ flappy-bird-python/
 
 ## Dependencias
 
+descarga
+https://github.com/domicientoyt/flappy-bird/releases/tag/beta_game
 No hay paquetes externos. `requirements.txt` queda vacío intencionalmente.
 
 ## Licencia
